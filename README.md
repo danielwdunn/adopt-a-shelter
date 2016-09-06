@@ -1,17 +1,6 @@
-# Adopt-a-Hydrant
+# Adopt-a-Shelter
 
-[![Build Status](http://img.shields.io/travis/codeforamerica/adopt-a-hydrant.svg)][travis]
-[![Dependency Status](http://img.shields.io/gemnasium/codeforamerica/adopt-a-hydrant.svg)][gemnasium]
-[![Coverage Status](http://img.shields.io/coveralls/codeforamerica/adopt-a-hydrant.svg)][coveralls]
-
-[travis]: http://travis-ci.org/codeforamerica/adopt-a-hydrant
-[gemnasium]: https://gemnasium.com/codeforamerica/adopt-a-hydrant
-[coveralls]: https://coveralls.io/r/codeforamerica/adopt-a-hydrant
-
-Claim responsibility for shoveling out a fire hydrant after it snows.
-
-## Screenshot
-![Adopt-a-Hydrant](https://github.com/codeforamerica/adopt-a-hydrant/raw/master/screenshot.png "Adopt-a-Hydrant")
+Forked from Code for America's Adopt-a-Hydrant 
 
 ## Demo
 You can see a running version of the application at
